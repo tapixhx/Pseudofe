@@ -1,0 +1,8 @@
+.main {
+    width:60%;
+    margin:36px auto;
+    padding:16px;
+    text-align:center;
+    border-radius: 10px;
+    box-shadow: 0px 8px 20px -4px rgba(0,0,0,0.08);
+}
